@@ -29,8 +29,6 @@ enum SN {
 
   hp_max = "Health Max",
   mp_max = "Mana Max",
-  c_res = "Cold Resistance",
-  f_res = "Fire Resistance",
 
   poison_res = "Poison Resistance",
   burn_res = "Burn Resistance",
